@@ -8,6 +8,10 @@ A tap-based trucking simulator game where you travel across Russian cities, sele
 - **Features**: Local progress saving, animated truck progress, multilingual support.
 - **Future Plans**: Integration with Ton Space wallet for Web3 functionality within Telegram mini-apps.
 
+Working Samples :
+Live Demo of Trucker Game https://178-236-23-54.nip.io/
+Telegram Bot https://t.me/rustruckersbot
+
 ## Installation and Setup
 
 1. **Clone the Repository**:
